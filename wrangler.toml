@@ -1,0 +1,12 @@
+name = "holidaylens"
+main = "src/index.ts"
+compatibility_date = "2025-07-18"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+CACHE_TTL = "86400"
+
+# Custom API domain (UI on Pages later):
+# [[routes]]
+# pattern = "api-holidaylens.toolwizhub.com"
+# custom_domain = true

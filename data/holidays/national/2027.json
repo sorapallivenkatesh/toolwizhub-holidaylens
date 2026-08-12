@@ -1,0 +1,23 @@
+{
+  "year": 2027,
+  "source": "curated (DoPT Delhi gazetted list composites)",
+  "updatedAt": "2026-08-12",
+  "holidays": [
+    { "date": "2027-01-26", "name": "Republic Day", "type": "gazetted", "scope": "national", "confidence": "official" },
+    { "date": "2027-03-10", "name": "Id-ul-Fitr", "type": "gazetted", "scope": "national", "confidence": "provisional", "religions": ["muslim"] },
+    { "date": "2027-03-23", "name": "Holi", "type": "gazetted", "scope": "national", "confidence": "official", "religions": ["hindu"] },
+    { "date": "2027-03-26", "name": "Good Friday", "type": "gazetted", "scope": "national", "confidence": "official", "religions": ["christian"] },
+    { "date": "2027-04-15", "name": "Ram Navami", "type": "gazetted", "scope": "national", "confidence": "official", "religions": ["hindu"] },
+    { "date": "2027-04-19", "name": "Mahavir Jayanti", "type": "gazetted", "scope": "national", "confidence": "official", "religions": ["jain"] },
+    { "date": "2027-05-17", "name": "Id-ul-Zuha (Bakrid)", "type": "gazetted", "scope": "national", "confidence": "provisional", "religions": ["muslim"] },
+    { "date": "2027-05-20", "name": "Buddha Purnima", "type": "gazetted", "scope": "national", "confidence": "official", "religions": ["buddhist"] },
+    { "date": "2027-06-16", "name": "Muharram", "type": "gazetted", "scope": "national", "confidence": "provisional", "religions": ["muslim"] },
+    { "date": "2027-08-15", "name": "Independence Day", "type": "gazetted", "scope": "national", "confidence": "official" },
+    { "date": "2027-08-25", "name": "Janmashtami", "type": "gazetted", "scope": "national", "confidence": "official", "religions": ["hindu"] },
+    { "date": "2027-10-02", "name": "Gandhi Jayanti", "type": "gazetted", "scope": "national", "confidence": "official" },
+    { "date": "2027-10-09", "name": "Dussehra", "type": "gazetted", "scope": "national", "confidence": "official", "religions": ["hindu"] },
+    { "date": "2027-10-29", "name": "Diwali", "type": "gazetted", "scope": "national", "confidence": "official", "religions": ["hindu"] },
+    { "date": "2027-11-14", "name": "Guru Nanak Jayanti", "type": "gazetted", "scope": "national", "confidence": "official", "religions": ["sikh"] },
+    { "date": "2027-12-25", "name": "Christmas", "type": "gazetted", "scope": "national", "confidence": "official", "religions": ["christian"] }
+  ]
+}

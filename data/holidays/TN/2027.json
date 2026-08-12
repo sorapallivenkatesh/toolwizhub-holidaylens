@@ -1,0 +1,10 @@
+{
+  "year": 2027,
+  "source": "curated state overlays",
+  "updatedAt": "2026-08-12",
+  "holidays": [
+    { "date": "2027-01-14", "name": "Pongal", "type": "gazetted", "scope": "state", "confidence": "official", "religions": ["hindu"] },
+    { "date": "2027-01-15", "name": "Thiruvalluvar Day", "type": "gazetted", "scope": "state", "confidence": "official" },
+    { "date": "2027-04-14", "name": "Tamil New Year", "type": "gazetted", "scope": "state", "confidence": "official" }
+  ]
+}

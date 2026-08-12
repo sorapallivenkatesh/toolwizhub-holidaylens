@@ -1,0 +1,38 @@
+# Claude Code local settings (per-machine tool permissions)
+.claude/
+
+CLAUDE.md
+
+dist/
+web/dist/
+scripts/out/
+
+# Node
+node_modules/
+web/node_modules/
+npm-debug.log*
+.env
+.env.*
+!.env.example
+!**/.env.production
+!web/.env.production
+
+# Cloudflare
+.wrangler/
+.dev.vars
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Backups / scratch
+*.bak
+_*test*/
+*.tsbuildinfo

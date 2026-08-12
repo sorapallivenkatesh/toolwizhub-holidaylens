@@ -1,0 +1,10 @@
+{
+  "year": 2026,
+  "source": "curated state overlays",
+  "updatedAt": "2026-08-12",
+  "holidays": [
+    { "date": "2026-03-19", "name": "Ugadi", "type": "gazetted", "scope": "state", "confidence": "official", "religions": ["hindu"] },
+    { "date": "2026-09-14", "name": "Ganesh Chaturthi", "type": "gazetted", "scope": "state", "confidence": "provisional", "religions": ["hindu"] },
+    { "date": "2026-11-01", "name": "Karnataka Rajyotsava", "type": "gazetted", "scope": "state", "confidence": "official" }
+  ]
+}
